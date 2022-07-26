@@ -1,7 +1,7 @@
 import numpy as np
 from scipy.linalg import hadamard
 
-#Integers only.
+# Embarrasingly simple. Integers only.
 #1. Get number of users. 
 #2. Generate codes.     
 #3. Get messages from each user.
